@@ -1,0 +1,1 @@
+{"version":3,"file":"pet-shop.module.js","sourceRoot":"","sources":["../../src/pet-shop/pet-shop.module.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAwC;AACxC,yDAA+D;AAC/D,+DAAuD;AAMhD,IAAM,aAAa,GAAnB,MAAM,aAAa;CAAI,CAAA;AAAjB,aAAa;IAJzB,IAAA,eAAM,EAAC;QACN,WAAW,EAAE,CAAC,oCAAc,CAAC;QAC7B,SAAS,EAAE,CAAC,8BAAW,EAAE,+BAAY,CAAC;KACvC,CAAC;GACW,aAAa,CAAI;AAAjB,sCAAa"}
